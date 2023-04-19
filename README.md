@@ -41,3 +41,4 @@ System.Console.Write($"{string.Join(", ", output)}");
 System.Console.Write("]");
 
 ## Алгоритм
+![Схема программы](algoritm.png)
